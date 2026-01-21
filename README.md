@@ -93,7 +93,6 @@ Response: { "url": "https://your-domain.com/img/abc123.jpg" }
 
 ```
 GET /img/{filename}
-GET /api/images/{filename}
 
 Response: Image binary with appropriate Content-Type
 ```

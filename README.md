@@ -103,7 +103,6 @@ Response: Image binary with appropriate Content-Type
 src/
 ├── app/
 │   ├── api/
-│   │   ├── images/[filename]/   # Image serving API
 │   │   └── upload/              # Upload API
 │   ├── img/[filename]/          # Short URL image serving
 │   ├── layout.tsx
